@@ -12,6 +12,15 @@
 - Lalu perintah dengan menggunakan metode if else kepada setiap int
 <img width="668" alt="dua" src="https://user-images.githubusercontent.com/115516688/200307619-8a34df03-dd84-45b1-9081-eab691fc2fbb.png">
 
+#LAB 3
+#Latihan 1 Bertingkat
+
+- for i in range membuat angka menjadi vertikal dari angka 0 ke 10
+- for j in range membuat angka menjadi horizontal
+
+<img width="192" alt="naon" src="https://user-images.githubusercontent.com/115516688/200313182-091f9dac-53ed-4827-8405-6987ea2ae5bc.png">
+
+
 
 # Latihan 2 Lebih kecil dari 0.5
 - Fungsi uniform(x,y) digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
